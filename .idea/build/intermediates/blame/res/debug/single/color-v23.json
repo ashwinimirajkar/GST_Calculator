@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/sumit/Documents/Ashwini/GST_Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/sumit/.android/build-cache/b489c0dc6c6e4d025d43e378cad8b7be7acbfd08/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/sumit/Documents/Ashwini/GST_Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/sumit/.android/build-cache/b489c0dc6c6e4d025d43e378cad8b7be7acbfd08/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/sumit/Documents/Ashwini/GST_Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/sumit/.android/build-cache/b489c0dc6c6e4d025d43e378cad8b7be7acbfd08/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/sumit/Documents/Ashwini/GST_Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/sumit/.android/build-cache/b489c0dc6c6e4d025d43e378cad8b7be7acbfd08/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/sumit/Documents/Ashwini/GST_Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/sumit/.android/build-cache/b489c0dc6c6e4d025d43e378cad8b7be7acbfd08/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/sumit/Documents/Ashwini/GST_Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/sumit/.android/build-cache/b489c0dc6c6e4d025d43e378cad8b7be7acbfd08/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/sumit/Documents/Ashwini/GST_Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/sumit/.android/build-cache/b489c0dc6c6e4d025d43e378cad8b7be7acbfd08/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/sumit/Documents/Ashwini/GST_Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/sumit/.android/build-cache/b489c0dc6c6e4d025d43e378cad8b7be7acbfd08/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/sumit/Documents/Ashwini/GST_Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/sumit/.android/build-cache/b489c0dc6c6e4d025d43e378cad8b7be7acbfd08/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/sumit/Documents/Ashwini/GST_Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/sumit/.android/build-cache/b489c0dc6c6e4d025d43e378cad8b7be7acbfd08/output/res/color-v23/abc_tint_switch_thumb.xml"
+    }
+]

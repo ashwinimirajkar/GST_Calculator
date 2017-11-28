@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sumit/Documents/Ashwini/GST_Calculator/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/sumit/Documents/Ashwini/GST_Calculator/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sumit/Documents/Ashwini/GST_Calculator/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/sumit/Documents/Ashwini/GST_Calculator/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

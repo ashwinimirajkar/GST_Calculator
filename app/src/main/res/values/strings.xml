@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">GST Calculator</string>
+    <string name="fa_times_circle">&#xf057;</string>
+    <string name="fa_times_circle_o">&#xf05c;</string>
+    <string name="fa_comment">&#xf075;</string>
+    <string name="fa_close">&#xf00d;</string>
+
+    <string-array name="tax_array">
+        <item>+0.25%</item>
+        <item>-0.25%</item>
+        <item>+3%</item>
+        <item>-3%</item>
+        <item>+5%</item>
+        <item>-5%</item>
+        <item>+12%</item>
+        <item>-12%</item>
+        <item>+18%</item>
+        <item>-18%</item>
+        <item>+28%</item>
+        <item>-28%</item>
+    </string-array>
+
+
+    <string name="GST">GST</string>
+    <string name="GSTInfo">GST is a comprehensive and destination based tax on supply of goods and services. GST is expected to be implemented from July 2017. \n \nGST was first introduced in France. Currently 160+ countries have introduced GST. \n \nThe various indirect taxes that are presently being levied by the Central and State Governments are: \n \n1. Central Excise \n2. Customs \n3. Counter Vailing Duty (CVD) \n4. Special Additional Duty (SAD) \n5. Service Tax \n6. VAT \n7. CST \n \nThe GST likely to be subsumed all the above taxes except Customs Duty, Profession Tax, Motor Vehicle Tax, Electricity Duty etc., which may continue to be charged even after the implementation of GST.</string>
+    <string name="name">\nIGST, CGST, SGST</string>
+    <string name="info">GST comprise of three main components of taxation that are IGST, CGST and SGST. \n \nIGST: Integrated GST, combination of CGST and SGST which is levied by Central Government, on all inter-state supplies of goods and / or services. \n\nCGST: Central GST, it is also levied by Central Government, but on intra-state supplies of goods and/or services. It likely to be replace central excise, CST, service tax etc. \n \nSGST: State GST, levied and collected by respective state government on intra-state supplies of goods and/or services. It likely to be replace VAT etc. \n \nIntra-state supplies mean location of both supplier and place of supply is in same state. \n \nInter-state supplies mean location of supply and place of supply are in different states.</string>
+    <string name="GST_Pros_and_Cons">\nGST Pros and Cons</string>
+    <string name="Pros_and_Cons">Pros: \n \n1. Simpler tax system. The entire Indian market will be a unified market which facilitates seamless movement of goods across states. \n \n2. Mitigates cascading (Tax on Tax) effect. \n \n3. More competitive exports: Exports, however, will be zero rated, meaning exporters of goods and services need not pay GST on their exports. GST paid by them on the procurement of goods and services will be refunded. \n \n4. Improved compliance and revenue collection. \n \nCons: \n \n1. Local dealers have to pay CGST in addition to SGST. \n \n2. Few sectors may end up paying more taxes than they did earlier. \n \n3. States producing goods might lose revenue.\n \n \n</string>
+
+    <string name="GST_rates">\nGST Rates</string>
+
+    <string name="zero_percent_tax">0%</string>
+    <string name="zero_percent_tax_products_and_services">The complete list of products on the CBEC [Central Board of Excise and Customs] website, falling under 0% slab, is classified in detail from serial number 1 to 149, with an itemized detailed break up of clauses and sub clauses. For services, the serial numbers range from 1 to 87. Some of the major products and services in this category are mentioned below. \n \nProducts: \n \nNo tax will be imposed on items like Jute, fresh meat, fish chicken, eggs, milk, butter milk, curd, natural honey, fresh fruits and vegetables, flour, besan, bread, prasad, salt, bindi. Sindoor, stamps, judicial papers, printed books, newspapers, bangles, handloom, Bones and horn cores, bone grist, bone meal, etc.; hoof meal, horn meal, Cereal grains hulled, Palmyra jaggery, Salt - all types, Kajal, Childrens picture, drawing or colouring books, Human hair, Khadi purchased from Khadi and Village Industries stores, Clay idols, brooms, Cotton seed oil cake,Charkha. \n \nServices: \n \nHotels and lodges with tariff below Rs 1,000, Grandfathering service has been exempted under GST. Rough precious and semi-precious stones will attract GST rate of 0.25 per cent. \n \n</string>
+
+    <string name="point_twentyfive_percent_tax">0.25% </string>
+    <string name="point_twentyfive_percent_tax_products_and_services">The complete list of products on the CBEC [Central Board of Excise and Customs] website, falling under .25% slab, isclassified in detail from serial number 1 to 3, with an itemized detailed break up of clauses and sub clauses. There is no service, which falls under this slab. Some of the major products in this category are mentioned below \n\nProducts: \n \nRaw diamonds, rough, precious and semi-precious stones. \n \nServices: \n \nNot Applicable. \n \n</string>
+
+    <string name="three_percent_tax">3%</string>
+    <string name="three_percent_tax_products_and_services">The complete list of products on the CBEC [Central Board of Excise and Customs] website, falling under 3% slab, is classified in detail from serial number 1 to 18, with an itemized detailed break up of clauses and sub clauses. There is no service, which falls under this slab. Some of the major products in this category are mentioned below. \n \nProducts: \n \nPearls, processed diamonds, precious and semi-precious stones, gold, silver, base metals, articles of goldsmiths and silversmiths, imitation jewelry. \n \nServices: \n \nNot Applicable.\n \n</string>
+
+    <string name="five_percent_tax">5%</string>
+    <string name="five_percent_tax_products_and_services_info">The complete list of products on the CBEC [Central Board of Excise and Customs] website, falling under 5% slab, is classified in detail from serial number 1 to 263, with an itemized detailed break up of clauses and sub clauses. For services, the serial numbers range from 1 to 12. Some of the major products and services in this category are mentioned below.</string>
+    <string name="five_percent_tax_products_and_services">\nProducts: \n \nItems such as fish fillet, Apparel below Rs 1000, packaged food items, footwear below Rs 500, cream, skimmed milk powder, branded paneer, frozen vegetables, coffee, tea, spices, pizza bread, rusk, sabudana, kerosene, coal, medicines, stent, lifeboats, Cashew nut, Cashew nut in shell, Raisin, Ice and snow, Bio gas, Insulin, Agarbatti, Kites, Postage or revenue stamps, stamp-post marks, first-day covers, Branded food, walnuts, dried tamarind, roasted gram, Dhoop batti, Corduroy fabric, saree fall, Paper mache items,Oil cakes, Duty Credit Scrips,Cotton quilts(quilts not exceeding Rs 1000 per piece),corals,Rosaries and prayer beads,Hawan samagri,Grass, leaf and reed and fibre products,including mats, pouches, wallets. \n \nServices: \n \nTransport services (Railways, air transport), small restraurants will be under the 5% category because their main input is petroleum, which is outside GST ambit. Textile job work will be taxed at 5%</string>
+
+    <string name="tweleve_percent_tax">\n12%</string>
+    <string name="tweleve_percent_tax_products_and_services_info">The complete list of products on the CBEC [Central Board of Excise and Customs] website, falling under 12% slab, is classified in detail from serial number 1 to 242, with an itemized detailed break up of clauses and sub clauses. For services, the serial numbers range from 1 to 7. Some of the major products and services in this category are mentioned below.</string>
+    <string name="tweleve_percent_tax_products_and_services">\nProducts: \n \nApparel above Rs 1000, frozen meat products , butter, cheese, ghee, dry fruits in packaged form, animal fat, sausage, fruit juices, Bhutia, namkeen, Ayurvedic medicines, tooth powder, agarbatti, colouring books, picture books, umbrella, sewing machine, cellphones, Ketchup and Sauces, All diagnostic kits and reagents, Exercise books and note books, Spoons, forks, ladles, skimmers, cake servers, fish knives, tongs, Spectacles, corrective, Playing cards, chess board, carom board and other board games, like ludo, rubber band, Wood, stone, metals, marble idols,Table and kitchenware,Batters, including idli / dosa batter, Textile caps,sprinklers,Cotton quilts (quilts exceeding Rs 1000 per piece), Statues, statuettes, pedestals, ceramic articles, porcelain items, ornamental articles, bells, gongs, non-electric of base metal,animal carving material. \n \nServices: \n \nState-run lotteries, Non-AC hotels, business class air ticket, fertilisers, Work Contracts will fall under 12 per cent GST tax slab. \n \n</string>
+
+    <string name="eighteen_percent_tax">18%</string>
+    <string name="eighteen_percent_tax_products_and_services">Products: \n \nMost items are under this tax slab which include footwear costing more than Rs 500, Trademarks, goodwill, software, Bidi Patta, Biscuits (All categories), flavoured refined sugar, pasta, cornflakes, pastries and cakes, preserved vegetables, jams, sauces, soups, ice cream, instant food mixes, mineral water, tissues, envelopes, tampons, note books, steel products, printed circuits, camera, speakers, Kajal pencil sticks, Headgear and parts thereof, Aluminium foil, Weighing Machinery [other than electric or electronic weighing machinery], Printers [other than multifunction printers], Electrical Transformer, CCTV, Optical Fiber, Bamboo furniture, Swimming pools and padding pools, Curry paste; mayonnaise and salad dressings; mixed condiments and mixed seasonings, Tractor parts, raincoats, Medical grade disposable gloves, Computer monitors(up to 20 inch),Custard powder,Rice rubber rolls for paddy de-husking machine,Kitchen gas lighters. \n \nServices: \n \nAC hotels that serve liquor, telecom services, IT services, branded garments and financial services will attract 18 per cent tax under GST, Room tariffs between Rs 2,500 and Rs 7,500, Restaurants inside five-star hotels. \n \n</string>
+
+    <string name="twentyeight_percent_tax">28%</string>
+    <string name="twentyeight_percent_tax_products_and_services_info">The complete list of products on the CBEC [Central Board of Excise and Customs] website, falling under 28% slab, is classified in detail from serial number 1 to 228, with an itemized detailed break up of clauses and sub clauses. For services, the serial numbers range from 1 to 4. Some of the major products and services in this category are mentioned below.</string>
+    <string name="twentyeight_percent_tax_products_and_services">\nProducts: \n \nBidis, chewing gum, molasses, chocolate not containing cocoa, waffles and wafers coated with choclate, pan masala, aerated water, paint, deodorants, shaving creams, after shave, hair shampoo, dye, sunscreen, wallpaper, ceramic tiles, water heater, dishwasher, weighing machine, washing machine, ATM, vending machines, vacuum cleaner, shavers, hair clippers, automobiles, motorcycles, aircraft for personal use, will attract 28 % tax - the highest under GST system. \n \nServices: \n \nPrivate-run lotteries authorised by the states, hotels with room tariffs above Rs 7,500, 5-star hotels, race club betting, cinema will attract tax 28 per cent tax slab under GST.</string>
+
+</resources>

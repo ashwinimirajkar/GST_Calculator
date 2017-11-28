@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="15dp">
+
+        <TextView
+            android:id="@+id/tv_GST"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/GST"
+            android:textSize="22sp"/>
+
+        <TextView
+            android:id="@+id/tv_GST_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/GSTInfo"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/name"
+            android:textSize="22sp"/>
+
+        <TextView
+            android:id="@+id/tv_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/info"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:id="@+id/tv_GST_rates"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/GST_rates"
+            android:textSize="22sp"/>
+
+        <TextView
+            android:id="@+id/tv_zero_percent_tax"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/zero_percent_tax"
+            android:textSize="22sp"/>
+
+        <TextView
+            android:id="@+id/tv_zero_percent_tax_products"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/zero_percent_tax_products_and_services"
+            android:textSize="15sp"/>
+
+
+        <TextView
+            android:id="@+id/tv_point_twentyfive_percent_tax"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/point_twentyfive_percent_tax"
+            android:textSize="22sp"/>
+
+        <TextView
+            android:id="@+id/tv_point_twentyfive_percent_tax_products"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/point_twentyfive_percent_tax_products_and_services"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:id="@+id/tv_three_percent_tax"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/three_percent_tax"
+            android:textSize="22sp"/>
+
+        <TextView
+            android:id="@+id/tv_three_percent_tax_products"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/three_percent_tax_products_and_services"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:id="@+id/tv_five_percent_tax"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/five_percent_tax"
+            android:textSize="22sp"/>
+
+        <TextView
+            android:id="@+id/tv_five_percent_tax_products_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/five_percent_tax_products_and_services_info"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:id="@+id/tv_five_percent_tax_products"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/five_percent_tax_products_and_services"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:id="@+id/tv_twelve_percent_tax"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/tweleve_percent_tax"
+            android:textSize="22sp"/>
+
+        <TextView
+            android:id="@+id/tv_twelve_percent_tax_products_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/tweleve_percent_tax_products_and_services_info"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:id="@+id/tv_twelve_percent_tax_products"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/tweleve_percent_tax_products_and_services"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:id="@+id/tv_eighteen_percent_tax"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/eighteen_percent_tax"
+            android:textSize="22sp"/>
+
+        <TextView
+            android:id="@+id/tv_eighteen_percent_tax_products"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/eighteen_percent_tax_products_and_services"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:id="@+id/tv_twentyeight_percent_tax"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/twentyeight_percent_tax"
+            android:textSize="22sp"/>
+
+        <TextView
+            android:id="@+id/tv_twentyeight_percent_tax_products_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/twentyeight_percent_tax_products_and_services_info"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:id="@+id/tv_twentyeight_percent_tax_products"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/twentyeight_percent_tax_products_and_services"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:id="@+id/tv_GSTProsAndCons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/GST_Pros_and_Cons"
+            android:textSize="22sp"/>
+
+        <TextView
+            android:id="@+id/tv_ProsAndCons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="@string/Pros_and_Cons"
+            android:textSize="15sp"/>
+    </LinearLayout>
+
+</ScrollView>
