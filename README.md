@@ -4,4 +4,4 @@ GST Calculator allows users to calculate GST applied on original price. It can a
 
 ## Screenshot
 
-![Alt text](screenshot.gif?raw=true)
+![Alt text](Screenshot.gif?raw=true)
